@@ -13,10 +13,13 @@ DB_NAME=
 DB_USER=
 DB_PASS=
 
+```bash
 npm run build
+```
 
+```bash
 npm run start
-
+```
 ## For Docker
 
 ```bash
